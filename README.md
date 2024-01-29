@@ -1,5 +1,6 @@
 # Heart Attack Analysis & Prediction Dataset
 About this dataset
+From UCI (University of California, Irvine)
 Age : Age of the patient
 Sex : Sex of the patient
 exang: exercise induced angina (1 = yes; 0 = no)
